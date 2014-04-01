@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlappyMagi", "FlappyMagi\FlappyMagi\FlappyMagi.csproj", "{63D2B6D0-5E57-403F-A654-2EC31D7BB9CD}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "FlappyMagiContent", "FlappyMagi\FlappyMagiContent\FlappyMagiContent.contentproj", "{F7002246-6508-4C0B-8589-920E0FC25193}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63D2B6D0-5E57-403F-A654-2EC31D7BB9CD}.Debug|x86.ActiveCfg = Debug|x86
+		{63D2B6D0-5E57-403F-A654-2EC31D7BB9CD}.Debug|x86.Build.0 = Debug|x86
+		{63D2B6D0-5E57-403F-A654-2EC31D7BB9CD}.Release|x86.ActiveCfg = Release|x86
+		{63D2B6D0-5E57-403F-A654-2EC31D7BB9CD}.Release|x86.Build.0 = Release|x86
+		{F7002246-6508-4C0B-8589-920E0FC25193}.Debug|x86.ActiveCfg = Debug|x86
+		{F7002246-6508-4C0B-8589-920E0FC25193}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
